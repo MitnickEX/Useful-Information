@@ -1,0 +1,8 @@
+#Js、Python、Git
+http://www.liaoxuefeng.com
+#SF
+http://segmentfault.com/
+#阿里云测
+http://mqc.aliyun.com
+#Testin
+http://www.testin.cn
