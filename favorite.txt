@@ -6,9 +6,47 @@ http://segmentfault.com/
 http://mqc.aliyun.com
 #Testin
 http://www.testin.cn
-#炼数成金
+#Dataguru炼数成金_专业数据分析门户网-Dataguru专业数据分析社区
 http://www.dataguru.cn
 #国内Appium下载地址
 https://testerhome.com/topics/680
-
-http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/00143167832686474803d3d2b7d4d6499cfd093dc47efcd000
+#软件测试流程进阶----两年软件测试总结
+http://www.cnblogs.com/fnng/archive/2012/08/04/2622463.html
+#测试用例的编写
+http://www.testwo.com/blog/6120
+#Cocode
+http://cocode.cc
+#猴子都能懂的GIT入门 | 贝格乐（Backlog）
+http://backlogtool.com/git-guide/cn/
+#安装Git - 廖雪峰的官方网站
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000
+#OfficePLUS，微软Office官方在线模板网站！
+http://office.msn.com.cn/Template/Home.shtml
+#Iconfont-阿里巴巴矢量图标库
+http://www.iconfont.cn/search?q=%E5%B7%A8%E8%9F%B9
+#新手学Appium-Python api - 51Testing软件测试网-中国软件测试人的精神家园
+http://www.51testing.com/html/15/n-1408815.html
+#Python basics Mission - Dataquest
+https://www.dataquest.io/mission/1/python-basics
+#Python部落
+http://www.freelycode.com/
+#HDFS原理分析：基本概念 - 51CTO.COM
+http://os.51cto.com/art/201212/369564.htm
+#Coursera：一流大学免费在线课程平台
+https://zh.coursera.org/
+#搭建自己的 crash 监控系统 
+https://testerhome.com/topics/3982
+#[安装包] Appium 国内下载地址 
+https://testerhome.com/topics/680
+#作为主角，技能和光环哪个重要？
+https://testerhome.com/topics/3892
+#Shell 教程 | 菜鸟教程
+http://www.runoob.com/linux/linux-shell.html
+#[分享] 自动化测试与持续集成方案--Jmeter 测试接口及性能
+https://testerhome.com/topics/2580
+#实时监控Android设备网络封包 
+http://blog.csdn.net/horkychen/article/details/11822657
+#基于tcpdump的Android智能移动终端数据包捕获完整解决方案
+http://www.cnblogs.com/anee/archive/2013/09/12/3316139.html
+#使用 Jmeter 做 Web 接口测试
+https://testerhome.com/topics/4059
